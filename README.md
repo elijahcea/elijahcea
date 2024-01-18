@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, and JavaScript!
 - 💞️ I’m looking to collaborate on anything! I love to learn and share ideas.
 - 📫 How to reach me ... elijah.cea01@gmail.com
-- ⚡ Fun fact: My favorite sports team is Arsenal football club!
+- ⚡ Fun fact: My favorite sports team is Arsenal football club! I also enjoy photography, traveling, and meeting new people!
 
 <!---
 elijahcea/elijahcea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

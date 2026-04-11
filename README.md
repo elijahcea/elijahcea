@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @elijahcea
-- 👀 I’m interested in human innovation and how we can make the world a better place through technology and teamwork!
-- 🌱 I’m currently learning React, Next.js, Vue.js and Prisma!
-- 💞️ I’m looking to collaborate on anything! I love to learn and share ideas.
-- 📫 How to reach me ... elijah.cea01@gmail.com
-- ⚡ Fun fact: My favorite sports team is Arsenal football club! I also enjoy photography, traveling, and meeting new people!
+👋 Hi, I’m @elijahcea! I'm passionate about web development and inspired by the positive impact writing code can have on people's lives. Let's build together!
+
+I enjoy photography, traveling, and meeting new people! Oh, and Arsenal F.C.!
 
 <!---
 elijahcea/elijahcea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
